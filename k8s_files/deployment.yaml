@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: emi-erp-container
-        image: 409556542010.dkr.ecr.us-east-1.amazonaws.com/emi-erp:latest
+        image: 409556542010.dkr.ecr.us-east-1.amazonaws.com/emi-erp:18
         ports:
         - containerPort: 3000
 ...
